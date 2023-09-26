@@ -1,5 +1,5 @@
 import Banner from "../Banner/Banner";
-import CategoryLIsh from "../CategoryLIsh/CategoryLIsh";
+import CategoryLIst from "../CategoryLIsh/CategoryLIst";
 import FeatureJobs from "../FeatureJobs/FeatureJobs";
 
 
@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <CategoryLIsh></CategoryLIsh>
+          <CategoryLIst></CategoryLIst>
             <FeatureJobs></FeatureJobs>
         </div>
     );
